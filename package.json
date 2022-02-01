@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Roza-krist.github.io/goit-js-hw-09",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roza-krist/goit-js-hw-09.git"
+  },
+  "author": "Roza Kristjuhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roza-krist/goit-js-hw-09/issues"
+  },
+  "dependencies": {
+    "parcel": "^2.2.1"
+  }
+}
